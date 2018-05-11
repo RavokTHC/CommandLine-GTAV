@@ -1,11 +1,11 @@
 #######################################
-#							                  		  #
+#                                     #
 #        COMMAND LINE v 0.4.2.0       #
-#		      (pc/notebook lentos)        #
-#									                    #
-#			       By Ravok THC		       	  #
-#									                    #
-#	    	 www.github.com/ravokthc		  #
+#         (pc/notebook lentos)        #
+#                                     #
+#            By Ravok THC             #
+#                                     #
+#        www.github.com/ravokthc      #
 #######################################
 
 # DIMENSÕES
