@@ -1,0 +1,85 @@
+#######################################
+#									  #
+#       COMMAND LINE v 0.4.2.0        #
+#		 (pc/notebook lentos)		  #
+#									  #
+#			By Ravok THC			  #
+#									  #
+#		www.github.com/ravokthc		  #
+#######################################
+
+# DIMENSÕES
+-width 300
+-height 200
+
+# HYPER THEREANDING ( https://www.techtudo.com.br/noticias/2017/04/o-que-e-hyper-threading-nos-processadores-da-intel.ghtml )
+
+-disableHyperthreading 
+
+# IGNORA EXISTENCIA DE PLACA DE VIDEO
+
+-ignoreDifferentVideoCard 
+
+# USAR CONFIGURAÇÕES MINIMAS
+
+-useMinimumSettings 
+
+# NIVEL DO Screen Space Ambient Occlusion
+
+-SSAO 0 
+
+# NIVEL DE QUALIDADE Anisotrópico
+
+-anisotropicQualityLevel 0 
+
+# DENSIDADE DO MAPA
+
+-cityDensity 0.0 
+
+# NIVEL DO FOG
+
+-fogVolumes 
+
+# NIVEL FXAA
+
+-fxaa 0 
+
+# QUALIDADE DO Grass
+
+-grassQuality 0 
+
+# QUALIDADE DE PARTICULAS 
+
+-particleQuality 0 
+
+# NIVEL DE REFLEXOS
+
+-reflectionQuality 0 
+
+# NIVEL DE Shader
+
+-shaderQuality 0 
+
+# NIVEL DO Shadow
+
+-shadowQuality 0 
+
+# QUALIDADE DA TEXTURA
+
+-textureQuality 0 
+
+# QUALIDADE DA AGUA
+
+-waterQuality 0 
+
+# VERSÃO DO DIRECTX
+
+-DX10 
+
+# GPU
+
+-GPUCount 1 
+
+# MODO DE TELA ( janela/full-screen ) 
+
+-windowed
