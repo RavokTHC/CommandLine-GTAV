@@ -29,7 +29,7 @@
 
 ## Instalação
 
-[![Watch the video](https://image.ibb.co/gh6YwJ/youtube.jpg)](https://youtu.be/EISfWY1tTDQ)
+[![Watch the video](https://image.ibb.co/gh6YwJ/youtube.jpg)](https://youtu.be/jJilbtmjW4M)
 
 Faça o Download do Commandline.
 ```sh
